@@ -1,0 +1,14 @@
+C:\Users\franc\OneDrive\Documentos\Dio_DotNet\bin\Debug\net8.0\Dio_DotNet.exe
+C:\Users\franc\OneDrive\Documentos\Dio_DotNet\bin\Debug\net8.0\Dio_DotNet.deps.json
+C:\Users\franc\OneDrive\Documentos\Dio_DotNet\bin\Debug\net8.0\Dio_DotNet.runtimeconfig.json
+C:\Users\franc\OneDrive\Documentos\Dio_DotNet\bin\Debug\net8.0\Dio_DotNet.dll
+C:\Users\franc\OneDrive\Documentos\Dio_DotNet\bin\Debug\net8.0\Dio_DotNet.pdb
+C:\Users\franc\OneDrive\Documentos\Dio_DotNet\obj\Debug\net8.0\Dio_DotNet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\franc\OneDrive\Documentos\Dio_DotNet\obj\Debug\net8.0\Dio_DotNet.AssemblyInfoInputs.cache
+C:\Users\franc\OneDrive\Documentos\Dio_DotNet\obj\Debug\net8.0\Dio_DotNet.AssemblyInfo.cs
+C:\Users\franc\OneDrive\Documentos\Dio_DotNet\obj\Debug\net8.0\Dio_DotNet.csproj.CoreCompileInputs.cache
+C:\Users\franc\OneDrive\Documentos\Dio_DotNet\obj\Debug\net8.0\Dio_DotNet.dll
+C:\Users\franc\OneDrive\Documentos\Dio_DotNet\obj\Debug\net8.0\refint\Dio_DotNet.dll
+C:\Users\franc\OneDrive\Documentos\Dio_DotNet\obj\Debug\net8.0\Dio_DotNet.pdb
+C:\Users\franc\OneDrive\Documentos\Dio_DotNet\obj\Debug\net8.0\Dio_DotNet.genruntimeconfig.cache
+C:\Users\franc\OneDrive\Documentos\Dio_DotNet\obj\Debug\net8.0\ref\Dio_DotNet.dll
